@@ -34,11 +34,9 @@
 
 ### 📊 Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icashprosto&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icashprosto&layout=compact&theme=radical)
 
 ### 📫 Как со мной связаться
 
