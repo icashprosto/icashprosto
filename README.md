@@ -40,7 +40,5 @@
 
 ### 📫 Как со мной связаться
 
-- Telegram: [@your_profile](https://t.me/your_profile)
-- VKontakte: [your_profile](https://vk.com/your_profile)
-- Email: your_email@example.com
+- Telegram: [@your_profile](https://t.me/ICashProsto)
 
