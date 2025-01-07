@@ -40,5 +40,5 @@
 
 ### 📫 Как со мной связаться
 
-- Telegram: [@your_profile](https://t.me/ICashProsto)
+- Telegram: [@ICashProsto](https://t.me/ICashProsto)
 
