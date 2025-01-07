@@ -18,12 +18,14 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://tenor.com/pl/view/anonymous-pepe-rare-pepe-the-matrix-pepe-matrix-gif-15409694#:~:text=Anonymous%20Pepe%20GIF-,%E2%97%8F%20GIF%20SD,-%E2%97%8F%20GIF%20HD" width="400" height="280" />
+#<img align="right" alt="GIF" src="https://tenor.com/pl/view/anonymous-pepe-rare-pepe-the-matrix-pepe-matrix-gif-15409694#:~:text=Anonymous%20Pepe%20GIF-,%E2%97%8F%20GIF%20SD,-%E2%97%8F%20GIF%20HD" width="400" height="280" />
 
 ### 🛠️ Навыки и инструменты
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
 
 
 ---
